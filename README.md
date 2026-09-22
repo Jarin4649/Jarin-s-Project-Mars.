@@ -1,2 +1,2 @@
-＃＃ Jarin's Project Mars ( JPM )
+##Jarin's Project Mars ( JPM )
 This project for competetion from Nasa space app challenge. The heading is Interplanetary Survival Guide: Martian Map. So, create a layered, integrated view of a location or route on the Martian surface that pulls together data from multiple NASA science missions and could help a human explorer plan and carry out a successful Marswalk while conducting new and exciting science along the way.
